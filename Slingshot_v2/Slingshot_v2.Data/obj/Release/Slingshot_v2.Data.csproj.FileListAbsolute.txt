@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Visual Studio 2015\GitHub\Slingshot_v2\Slingshot_v2.Data\bin\Release\Slingshot_v2.Data.dll.config
+C:\Users\User\Documents\Visual Studio 2015\GitHub\Slingshot_v2\Slingshot_v2.Data\bin\Release\Slingshot_v2.Data.dll
+C:\Users\User\Documents\Visual Studio 2015\GitHub\Slingshot_v2\Slingshot_v2.Data\bin\Release\Slingshot_v2.Data.pdb
+C:\Users\User\Documents\Visual Studio 2015\GitHub\Slingshot_v2\Slingshot_v2.Data\bin\Release\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\GitHub\Slingshot_v2\Slingshot_v2.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2015\GitHub\Slingshot_v2\Slingshot_v2.Data\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Documents\Visual Studio 2015\GitHub\Slingshot_v2\Slingshot_v2.Data\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\GitHub\Slingshot_v2\Slingshot_v2.Data\bin\Release\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2015\GitHub\Slingshot_v2\Slingshot_v2.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2015\GitHub\Slingshot_v2\Slingshot_v2.Data\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Documents\Visual Studio 2015\GitHub\Slingshot_v2\Slingshot_v2.Data\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2015\GitHub\Slingshot_v2\Slingshot_v2.Data\obj\Release\Slingshot_v2.Data.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\GitHub\Slingshot_v2\Slingshot_v2.Data\obj\Release\Slingshot_v2.Data.dll
+C:\Users\User\Documents\Visual Studio 2015\GitHub\Slingshot_v2\Slingshot_v2.Data\obj\Release\Slingshot_v2.Data.pdb
